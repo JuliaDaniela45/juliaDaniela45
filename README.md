@@ -4,7 +4,7 @@ Meu nome é JuliaDaniela45
 
 ⚫ Estou estudando no [Alura](https://www.alura.com.br)
 
-⚫ Estou me desenvolvendo na linguagem JavaScript
+⚫ Estou me desenvolvendo na linguagem HTMl
 
 ⚫ Utilizo este espaço para organizar e compartilhar meus projetos
 
